@@ -1,7 +1,7 @@
 name: AGHOST
 favicon: null
-layout_spectrum: 0.19898043246939778
-typography_spectrum: 0.031696878373622894
+layout_spectrum: 1
+typography_spectrum: 0.37201
 cta:
   domain: null
   bucket: null
