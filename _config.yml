@@ -1,0 +1,28 @@
+name: AGHOST
+favicon: null
+layout_spectrum: 0.19898043246939778
+typography_spectrum: 0.031696878373622894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17262741830199957
+  lightness: 0.34308643639087677
+  saturation: 0.12362683331593871
+  rhythmicContrast: 0.12651855126023293
+purpose: []
